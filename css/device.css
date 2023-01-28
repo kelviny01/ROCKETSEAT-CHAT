@@ -1,0 +1,6 @@
+@media (max-width: 1440px) {
+    .content-input {
+        background-color: var(--bg-color);
+        margin-bottom: 1rem;
+    }
+}

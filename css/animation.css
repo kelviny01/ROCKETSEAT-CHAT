@@ -1,0 +1,45 @@
+@keyframes msg-1 {
+    from {
+        transform: translateX(-60rem);
+    } 
+    to {
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes msg-2 {
+    from {
+        transform: translateY(60rem);
+    } 
+    to {
+        transform: translateY(0rem);
+    }
+}
+
+@keyframes msg-3 {
+    from {
+        transform: translateY(-60rem);
+    } 
+    to {
+        transform: translateY(0rem);
+    }
+}
+
+@keyframes msg-4 {
+    from {
+        transform: translateX(60rem);
+    } 
+    to {
+        transform: translateX(0rem);
+    }
+}
+
+@keyframes input {
+    from {
+        transform: translateY(-60rem);
+    } 
+    to {
+        transform: translateY(0rem);
+    }
+}
+
